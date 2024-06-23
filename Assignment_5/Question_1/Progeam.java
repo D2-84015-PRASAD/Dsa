@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	bin.addNode(4);
 	bin.addNode(16);
 	bin.addNode(9);
+	bin.addNode(3);
 	bin.preorder();
 }
 }
