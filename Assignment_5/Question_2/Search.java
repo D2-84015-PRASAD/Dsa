@@ -11,6 +11,7 @@ public class Search {
 		b.addNode(7);
 		b.addNode(5);
 		b.addNode(15);
+		b.addNode(9)
 		b.preorder();
 		System.out.println(" ");
 		Node search = b.binarySearch(20);
